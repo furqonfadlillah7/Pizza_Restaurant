@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PizzaRestaurant</string>
+    <string name="store">Store</string>
+    <string name="your_name">Your Name</string>
+    <string name="hello_user">Hello, Asep</string>
+    <string name="location">Location</string>
+    <string name="menu_img">Papperoni Pizza</string>
+    <string name="price">Price: Rp.66.000,00</string>
+    <string name="order_detail">Order Detail</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="btn_menus">See Menus</string>
+    <string name="btn_order">Order Now</string>
+    <string name="btn_back">Back</string>
+
+    <string name="describe_menu">Papperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+
+    <string name="menu1">Pepperoni Pizza</string>
+    <string name="menu2">Spaghetti</string>
+    <string name="menu3">Burger</string>
+    <string name="menu4">Steak</string>
+
+    <string name="describe_menu1">Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="describe_menu2">Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+    <string name="describe_menu3">Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran, dan daging yang tebal</string>
+    <string name="describe_menu4">Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+
+    <!--    hint-->
+    <string name="hint_name">Please fill your name</string>
+</resources>
